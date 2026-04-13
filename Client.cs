@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace d1_tp5
+namespace compte_bancaire
 {
     public class Client
     {
