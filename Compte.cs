@@ -5,7 +5,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Compte_bancaire
+namespace compte_bancaire
 {
     public class Compte
     {
